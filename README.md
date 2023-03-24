@@ -1,3 +1,3 @@
-# mysql_sqlalchemy_ORM
+## mysql_sqlalchemy_ORM
 writing a sqlalchemy codes without ORM and with ORM
-# sqlalchemy_one_to_one_relationships
+## sqlalchemy_one_to_one_relationships
