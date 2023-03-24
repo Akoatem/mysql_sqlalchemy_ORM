@@ -1,0 +1,1 @@
+TAhe study of sqlalchemy_one_to_one_relationships by creating parent and child class, deleting a parent or child
